@@ -9,3 +9,5 @@ https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732
 https://jfdeclercq.biz/en/2016/06/02/passme/
 
 https://www.slideshare.net/jboner/scalability-availability-stability-patterns/33-What_do_we_mean_withAvailability
+
+https://www.youtube.com/watch?v=yPF94QiI2qk
